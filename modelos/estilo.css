@@ -1,0 +1,27 @@
+table tr td{
+    border: 1px solid black; /*borda da tabela */
+}
+
+table{
+	width: 80%; /* largura da tabela */
+	background-color: #7B68EE;
+	margin: auto; /* alinhamento centralizado da tabela */
+}
+
+button{
+	color: #34e8eb; /*cor da fonte */
+	background: #33166b; /* cor do fundo do botao */
+	font-optical-sizing: 25px; /*tamanho da fonte */
+	border-radius: 20px 50px 5px 90px; /*arredonda os cantos */
+	margin-top: 50px; /*margem do topo */
+	margin-bottom: 50px; /* margem inferior */
+	margin-left: 20px; /* borda a esquerda */
+	margin-right: 20px; /* margem a direita */
+
+	/* margin: 50px 50px 20px 50px; */
+
+	padding-top: 20px; /*margem interna topo */
+	padding-bottom: 20px; /* margem intera inferior */
+	padding-left: 20px; /* margem interna esquerda */
+	padding-right: 20px; /*margem interna direita */
+}
